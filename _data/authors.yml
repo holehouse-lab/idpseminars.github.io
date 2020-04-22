@@ -1,18 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Alex Holehouse:
+  name        : "Alex Holehouse"
+  uri         : "http://holehouse.wustl.edu"
+  email       : "alex.holehouse@wustl.edu"
+  bio         : "Assistant Professor @ Washinton University School of Medicine."
+  avatar      : "ash_2018.jpg"
+  twitter     : "alexholehouse"
+  google_plus : 
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+Magnus Kjaergaard:
+  name        : "Magnus Kjaergaard"
+  uri	      : "http://www.biophysics.dk/"
+  email       : "magnus@inano.au.dk"
+  bio         : "Assistant Professor @ Aarhus University"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "proteinmagnus"
