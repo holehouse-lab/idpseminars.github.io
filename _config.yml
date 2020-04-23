@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "IDPSeminars"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "IDPSeminars"
 description              : &description "personal description"
 url                      : "http://idpseminars.com/"  # while hosted locally -> "https://holehouse-lab.github.io/"
 baseurl                  : ""   # while hosted locally -> "/idpseminars.github.io"
