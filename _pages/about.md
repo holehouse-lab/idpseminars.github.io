@@ -13,13 +13,10 @@ redirect_from:
 IDPSeminars is a burgeoning bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
 
-
-
-
-## What?
+## What's this all about?
 IDPSeminars are virtual seminar hosted by Zoom. Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
 
-## When?
+## When are the talks?
 Seminars will be held on Thursdays at various times (depending on your timezone):
 
 **Los Angeles**: 10:00 AM - **Chicago**: 12:00 PM  - **New York**: 1:00 PM 
@@ -28,6 +25,8 @@ Seminars will be held on Thursdays at various times (depending on your timezone)
 
 **Delhi**: 10:30 PM - **Beijing**: 1:00 AM (Friday)  - **Sydney**: 3:00 AM (Friday)
 
-## Who?
+## Who is this for?
 Our goal is to attract a broad set of speakers to appeal to a necessarily broad audience. A short summary of each speaker's work is provided alongside their talk title. If you are interested in speaking or would like to nominate someone to speak, please contact us at [disordered.protein.seminars@gmail.com](mailto:disordered.protein.seminars@gmail.com)!
 
+## Who runs IDPSeminars?
+IDPSeminars is run by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu).

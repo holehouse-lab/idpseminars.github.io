@@ -9,5 +9,3 @@ The website is publically hosted at [www.idpseminars.com](http://www.idpseminars
 ## Can I use this for my own seminar series?
 Yes, please fork away, but keep all the licenses!
 
-## Can I make a pull request to change something?
-Sure! Content for most of the posts can be found either in 
