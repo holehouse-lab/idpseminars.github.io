@@ -16,7 +16,7 @@ IDPSeminars is a burgeoning bi-weekly virtual seminar series that is centered ar
 <img src="{{site.baseurl}}/images/spring2020_flyer.png" width="100%">
 
 ## What's this all about?
-IDPSeminars are virtual seminar hosted by Zoom. Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
+IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
 
 ## When are the talks?
 Seminars will be held on Thursdays at various times (depending on your timezone):
@@ -29,6 +29,3 @@ Seminars will be held on Thursdays at various times (depending on your timezone)
 
 ## Who is this for?
 Our goal is to attract a broad set of speakers to appeal to a necessarily broad audience. A short summary of each speaker's work is provided alongside their talk title. If you are interested in speaking or would like to nominate someone to speak, please contact us at [disordered.protein.seminars@gmail.com](mailto:disordered.protein.seminars@gmail.com)!
-
-## Who runs IDPSeminars?
-IDPSeminars is run by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu).
