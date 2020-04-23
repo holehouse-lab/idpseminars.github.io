@@ -13,6 +13,8 @@ redirect_from:
 IDPSeminars is a burgeoning bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
 
+<img src="{{site.baseurl}}/images/spring2020_flyer.png" width="60%">
+
 ## What's this all about?
 IDPSeminars are virtual seminar hosted by Zoom. Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
 
