@@ -7,7 +7,9 @@ date: 2020-04-21
 author: "Alex Holehouse"
 ---
 
-Here we include a non-exhaustive list of resources that may be useful for assessing if your favourite protein is disordered (or not).
+Here we include a non-exhaustive list of resources that may be useful for assessing if your favourite protein is disordered (or not). These resources are not predictors for an arbitrary sequence, but instead let you examine a naturally occurring protein to identify disordered regions.
+
+In the case of **DisProt**, it provides a definitive resource for experimentally-verified disordered regions.
 
 ## MobiDB
 MobiDB was designed to offer a centralized resource for annotations of intrinsic protein disorder and its function. The database covers different disorder aspects.
@@ -33,7 +35,7 @@ A community resource for pre-computed disorder predictions on a large library of
 
 **URL**: [http://d2p2.pro/](http://d2p2.pro/)
 
-####Reference
+#### Reference
 Oates, M.E., **D2P2: Database of Disordered Protein Predictions**. Nucleic Acids Res. 41, D508–D516 (2013).
 
 ======
