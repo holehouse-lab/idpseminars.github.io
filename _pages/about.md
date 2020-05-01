@@ -12,6 +12,8 @@ redirect_from:
 ## <span style="color:red">NEXT SEMINAR: Thursday May 7th 2020</span>
 IDPSeminars is a burgeoning bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
+###[CLICK HERE FOR SEMINAR REGISTRATION](https://wustlhippa.zoom.us/webinar/register/WN_Yxqk5QxZSa68o6OgA2FS-A)
+
 
 <img src="{{site.baseurl}}/images/spring2020_flyer.png" width="100%">
 
