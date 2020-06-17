@@ -16,7 +16,7 @@ IDPSeminars is a burgeoning bi-weekly virtual seminar series that is centered ar
 
 Seminar registration is now open! After registration a personalized email link will be sent to you! Please do not share this link with other people and don't loose it!
 
-### [CLICK HERE FOR SEMINAR REGISTRATION](https://wustl-hipaa.zoom.us/webinar/register/WN_Yxqk5QxZSa68o6OgA2FS-A)
+### [CLICK HERE FOR SEMINAR REGISTRATION](https://wustl-hipaa.zoom.us/webinar/register/WN_MIPV2-kOTcue9HYOxEHyUA)
 
 
 
