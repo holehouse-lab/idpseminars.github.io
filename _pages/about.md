@@ -10,18 +10,13 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: IDPSIG Virtual Symposium (June 25th) </span>
-# [IDPSIG Link here](https://idpsig.weebly.com/)
+## <span style="color:red">Next Event: July 9th </span>
+### Registration link coming _very_ soon
 	
 IDPSeminars is a burgeoning bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-Seminar registration is now open! After registration a personalized email link will be sent to you! Please do not share this link with other people and don't loose it!
 
-### Updated registration link coming soon
-
-
-
-<img src="{{site.baseurl}}/images/spring2020_flyer.png" width="100%">
+<img src="{{site.baseurl}}/images/summer2020_flyer.png" width="100%">
 
 ## What's this all about?
 IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
