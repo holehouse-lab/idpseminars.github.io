@@ -11,9 +11,12 @@ redirect_from:
 	
 	
 ## <span style="color:red">Next Event: July 9th </span>
-### Registration link coming _very_ soon
+# [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
 	
-IDPSeminars is a burgeoning bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
+<span style="color:blue">**July 3rd 2020**: We have updated our registration procedure so you should now only need to register ONCE for all future IDPSeminars!</span>
+
+
+IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
 
 <img src="{{site.baseurl}}/images/summer2020_flyer.png" width="100%">
