@@ -27,11 +27,13 @@ IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus Univ
 ## When are the talks?
 Seminars will be held on Thursdays at various times (depending on your timezone):
 
-**Los Angeles**: 10:00 AM - **Chicago**: 12:00 PM  - **New York**: 1:00 PM 
+**NOTE ON OCT 28TH NON-EUROPEAN TIMES WILL BE OFFSET BY ONE HOUR FOR ASYNCHRONOUS DAYLIGHT SAVINGS TIME**
 
-**London**: 6:00 PM - **Paris**: 7:00 PM - **Moscow**: 8:00 PM 
+**Los Angeles**: <span style="color:red">11:00 AM</span> - **Chicago**: <span style="color:red">1:00 PM</span>  - **New York**: <span style="color:red">2:00 PM</span>
 
-**Delhi**: 10:30 PM - **Beijing**: 1:00 AM (Friday)  - **Sydney**: 3:00 AM (Friday)
+**London**: 6:00 PM - **Paris**: 7:00 PM - **Moscow**: <span style="color:red">8:00 PM</span>
+
+**Delhi**: <span style="color:red">11:30 PM</span> - **Beijing**: <span style="color:red">2:00 AM</span>  - **Sydney**: <span style="color:red">5:00 AM</span>
 
 ## Who is this for?
 Our goal is to attract a broad set of speakers to appeal to a necessarily broad audience. A short summary of each speaker's work is provided alongside their talk title. If you are interested in speaking or would like to nominate someone to speak, please contact us at [disordered.protein.seminars@gmail.com](mailto:disordered.protein.seminars@gmail.com)!
