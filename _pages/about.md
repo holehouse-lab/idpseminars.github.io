@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: November 5th. (Lia Ball and Richard Kriwacki) </span>
+## <span style="color:red">Next Event: November 19th. (Shahar Sukenik and Wade Zeno) </span>
 # [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
 	
 <span style="color:blue">**July 3rd 2020**: We have updated our registration procedure so you should now only need to register ONCE for all future IDPSeminars!</span>
