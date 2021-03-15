@@ -10,10 +10,22 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: March 4th, Marlene Ringkjøbin-Jensen and Ylva Ivarsson! </span>
+## <span style="color:red">Next Event: March 18th, Anthony Fitzpatrick and Scott Showalter! </span>
 # [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
-	
-<span style="color:blue">**July 3rd 2020**: We have updated our registration procedure so you should now only need to register ONCE for all future IDPSeminars!</span>
+
+
+<hr>
+<span style="color:blue">**UPDATE ON START TIME: <BR><br>[March 15th 2021]**: This week the US/Europe time difference is non-standard, which is confusing even to us as organizers!<br>To confirm, this week IDPSeminars will be at the following times:<br>**San Francisco**: 11 AM<br>
+**Chicago**: 1 PM<br>
+**New York**: 2 PM<br>
+**London**: 6 PM<br>
+**Paris**: 7 PM<br>
+**Moscow**: 9 PM<br>
+**New Delhi**: 11:30 PM<br>
+**Beijing**: 2:00 AM (Friday)<br>
+**Sydney**: 5:00 AM (Friday)<br>
+</span>
+<hr>
 
 
 IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
