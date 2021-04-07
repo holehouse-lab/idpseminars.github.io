@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: April 1st, Evan Spruijt and Lucia Strader! </span>
+## <span style="color:red">Next Event: April 15th, Kausik Si and Elisar Barbar! </span>
 # [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
 
 
