@@ -10,14 +10,13 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: April 15th, Kausik Si and Elisar Barbar! </span>
+## <span style="color:red">Next Event: May 13th, Luke Berchowitz and Max Staller! </span>
 # [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
 
 
 IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-
-<img src="{{site.baseurl}}/images/marapr2021_flyer.jpg" width="100%">
+<img src="{{site.baseurl}}/images/may_june_2021.jpeg" width="100%">
 
 ## What's this all about?
 IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
