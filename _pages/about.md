@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: May 13th, Luke Berchowitz and Max Staller! </span>
+## <span style="color:red">Next Event: May 27th, Klára Hlouchová and Markus Zweckstetter! </span>
 # [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
 
 
