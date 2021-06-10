@@ -18,6 +18,15 @@ IDPSeminars is a bi-weekly virtual seminar series that is centered around intrin
 
 <img src="{{site.baseurl}}/images/may_june_2021.jpeg" width="100%">
 
+## IDPSIG/IDPSeminars virtual poster session
+Please use this link to submit an abstract:
+[Abstract submission](https://forms.gle/JRuzAtj5Z2Gz3g7c6)
+
+Please use this link to sign up to attend:
+[Virtual Poster Session Registration](https://docs.google.com/forms/d/e/1FAIpQLScbyu7tJArTg656yF5mSzp5tOYZ__6AaTBnxIDM_px99FCELg/viewform?usp=sf_link)
+
+<img src="{{site.baseurl}}/images/virtual_poser.png" width="100%">
+
 ## What's this all about?
 IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
 
