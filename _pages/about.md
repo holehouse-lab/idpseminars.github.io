@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: Jun 10th, Keiji Numata and Julie Forman-Kay! </span>
+## <span style="color:red">Next Event: Jun 24th, Rosana Collepardo and Shasha Chong! </span>
 # [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
 
 
