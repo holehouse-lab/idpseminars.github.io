@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: July 8th, Silvio Tosatto and Sara Linse! </span>
+## <span style="color:red">Next Event: July 2nd, Rina Rosenzweig and Maria Hondele! </span>
 # [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
 
 
