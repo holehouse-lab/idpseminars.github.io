@@ -10,18 +10,17 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: July 2nd, Rina Rosenzweig and Maria Hondele! </span>
-# [Registration link](https://forms.gle/eGgFFj7Tx3wAB2qh9) 
+## <span style="color:red">Next Event: IDPSIG/IDPSeminars virtual poster session on Sept. 9th 1 PM EDIT </span>
+# [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScbyu7tJArTg656yF5mSzp5tOYZ__6AaTBnxIDM_px99FCELg/viewform?usp=sf_link) 
 
+
+## Seminars 
 
 IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
 <img src="{{site.baseurl}}/images/july_aug_2021_flyer.jpg" width="100%">
 
 ## IDPSIG/IDPSeminars virtual poster session
-Please use this link to submit an abstract:
-[Abstract submission](https://forms.gle/JRuzAtj5Z2Gz3g7c6)
-
 Please use this link to sign up to attend:
 [Virtual Poster Session Registration](https://docs.google.com/forms/d/e/1FAIpQLScbyu7tJArTg656yF5mSzp5tOYZ__6AaTBnxIDM_px99FCELg/viewform?usp=sf_link)
 
