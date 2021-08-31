@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: IDPSIG/IDPSeminars virtual poster session on Sept. 9th 1 PM EDIT </span>
+## <span style="color:red">Next Event: IDPSIG/IDPSeminars virtual poster session on Sept. 9th 1 PM EDT (normal seminar time) </span>
 # [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScbyu7tJArTg656yF5mSzp5tOYZ__6AaTBnxIDM_px99FCELg/viewform?usp=sf_link) 
 
 
