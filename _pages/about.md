@@ -10,21 +10,16 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: IDPSIG/IDPSeminars virtual poster session on Sept. 9th 1 PM EDT (normal seminar time) </span>
-# [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScbyu7tJArTg656yF5mSzp5tOYZ__6AaTBnxIDM_px99FCELg/viewform?usp=sf_link) 
+## <span style="color:red">Next Event: Tuomas Knowles and Jeetain Mittal on Sept. 23rd 1 PM EDT (normal seminar time) </span>
+# [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
 
 
 ## Seminars 
 
 IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/july_aug_2021_flyer.jpg" width="100%">
+<img src="{{site.baseurl}}/images/S9_flyer_no_website-01.png" width="100%">
 
-## IDPSIG/IDPSeminars virtual poster session
-Please use this link to sign up to attend:
-[Virtual Poster Session Registration](https://docs.google.com/forms/d/e/1FAIpQLScbyu7tJArTg656yF5mSzp5tOYZ__6AaTBnxIDM_px99FCELg/viewform?usp=sf_link)
-
-<img src="{{site.baseurl}}/images/virtual_poster2.png" width="100%">
 
 ## What's this all about?
 IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
