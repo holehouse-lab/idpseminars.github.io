@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: Tuomas Knowles and Jeetain Mittal on Sept. 23rd 1 PM EDT (normal seminar time) </span>
+## <span style="color:red">Next Event: Xavier Salvatella and Dan Jarosz on Oct. 21st </span>
 # [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
 
 
