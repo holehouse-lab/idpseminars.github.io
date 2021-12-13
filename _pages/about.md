@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: Monika Fuxreiter and Hao Jiang on Dec. 2nd </span>
+## <span style="color:red">Next Event: Brittany Morgan and Rebecca Berlow on Dec. 16th </span>
 # [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
 
 
