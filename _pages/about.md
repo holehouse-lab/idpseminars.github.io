@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: Brittany Morgan and Rebecca Berlow on Dec. 16th </span>
+## <span style="color:red">Next Event: Priya Banerjee  and Will Jacobs on Feb. 3rd </span>
 # [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
 
 
@@ -18,7 +18,7 @@ redirect_from:
 
 IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/S10_flyer_no_website-01.jpeg" width="100%">
+<img src="{{site.baseurl}}/images/s11_flyer.png" width="100%">
 
 
 ## What's this all about?
