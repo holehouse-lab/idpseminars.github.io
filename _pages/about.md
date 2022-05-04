@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: Felipe García Quiroz and Ben Schuler on April 7rd </span>
+## <span style="color:red">Next Event: Sarah Bondos  and Martin Blackledge on May 5th </span>
 # [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
 
 
