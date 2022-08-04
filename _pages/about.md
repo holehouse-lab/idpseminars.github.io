@@ -13,10 +13,18 @@ redirect_from:
 ## <span style="color:red">Next Event: Steven Boeynaems and Joan-Emma Shea on August 4th </span>
 ### [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
 
-## Virtual poster session sign up
-On thursday Sept 22nd we will be holding our second annual IDPSIG/IDPSeminar virtual poster session. Details will be announced in our August 4th seminar, but sign ups are already open and available!
+# IDPosters22
+In conjunction with IDPSIG, we are excited to announce our second (annual) virtual poster session with a keynote talk from the incredible [Tanja Mittag](https://www.stjude.org/research/labs/mittag-lab.html).
 
-###[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLScR9XM82Un-8DtEcs2yH0glUdPHIGArYd9wW-bNGpt21EocFw/viewform)
+For this event we want to invite YOU to come presenter your work in a virtual poster!
+
+<img src="{{site.baseurl}}/images/IDPosters22.jpg" width="60%">
+
+We are soliciting abstract submissions for the event, which will be held over Zoom on September 22nd, and provides an opportunity for anyone not in an independent group-leader position to present their work to the community.
+
+In addition to having Zoom posters, five speakers will be selected to give short ("lightning") talks at the start of the event.
+
+### [Please sign up now](https://docs.google.com/forms/d/e/1FAIpQLScR9XM82Un-8DtEcs2yH0glUdPHIGArYd9wW-bNGpt21EocFw/viewform)
 
 
 ## IDPSeminars 
