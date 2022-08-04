@@ -11,7 +11,12 @@ redirect_from:
 	
 	
 ## <span style="color:red">Next Event: Steven Boeynaems and Joan-Emma Shea on August 4th </span>
-# [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
+### [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
+
+## Virtual poster session sign up
+On thursday Sept 22nd we will be holding our second annual IDPSIG/IDPSeminar virtual poster session. Details will be announced in our August 4th seminar, but sign ups are already open and available!
+
+###[Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLScR9XM82Un-8DtEcs2yH0glUdPHIGArYd9wW-bNGpt21EocFw/viewform)
 
 
 ## IDPSeminars 
