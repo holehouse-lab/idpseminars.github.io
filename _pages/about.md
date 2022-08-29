@@ -11,7 +11,8 @@ redirect_from:
 	
 	
 ## <span style="color:red">Next Event: 
-Jeremy Schmit and Ioana M. Ilie on September 1st </span>
+Jeremy Schmit and Ioana M. Ilie on September 1st 
+
 ### [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
 
 <img src="{{site.baseurl}}/images/sept1_2022.jpeg" width="60%">
@@ -27,7 +28,11 @@ We are soliciting abstract submissions for the event, which will be held over Zo
 
 In addition to having Zoom posters, five speakers will be selected to give short ("lightning") talks at the start of the event.
 
-### [Please sign up now](https://docs.google.com/forms/d/e/1FAIpQLScR9XM82Un-8DtEcs2yH0glUdPHIGArYd9wW-bNGpt21EocFw/viewform)
+### [Sign up to present a poster](https://docs.google.com/forms/d/e/1FAIpQLScR9XM82Un-8DtEcs2yH0glUdPHIGArYd9wW-bNGpt21EocFw/viewform)
+
+### [Sign up to attend only](https://forms.gle/EbuyTbKzyggTvJvSA)
+
+
 
 
 ## IDPSeminars 
