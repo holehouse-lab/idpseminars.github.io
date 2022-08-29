@@ -10,8 +10,11 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: Steven Boeynaems and Joan-Emma Shea on August 4th </span>
+## <span style="color:red">Next Event: 
+Jeremy Schmit and Ioana M. Ilie on September 1st </span>
 ### [Registration link](https://docs.google.com/forms/d/e/1FAIpQLSdWSTOEh6TQ_AR7H1-azqyd9RuHYqq5v-tUy8FY3NcaydXl5Q/viewform?usp=sf_link) 
+
+<img src="{{site.baseurl}}/images/sept1_2022.jpeg" width="60%">
 
 # IDPosters22
 In conjunction with IDPSIG, we are excited to announce our second (annual) virtual poster session with a keynote talk from the incredible [Tanja Mittag](https://www.stjude.org/research/labs/mittag-lab.html).
