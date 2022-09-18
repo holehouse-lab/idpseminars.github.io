@@ -13,22 +13,17 @@ redirect_from:
 ## <span style="color:red">Next Event: 
 IDPosters22: Virtual poster session
 
-### [Registration link](https://forms.gle/EbuyTbKzyggTvJvSA) 
-
-<img src="{{site.baseurl}}/images/IDPosters22_final.jpg" width="60%">
-
 # IDPosters22
 In conjunction with IDPSIG, we are excited to host our second (annual) virtual poster session with a keynote talk from the incredible [Tanja Mittag](https://www.stjude.org/research/labs/mittag-lab.html).
 
 For this event we want to invite YOU to come presenter your work in a virtual poster!
 
-<img src="{{site.baseurl}}/images/IDPosters22.jpg" width="60%">
+<img src="{{site.baseurl}}/images/IDPosters22_final.jpg" width="60%">
 
 Even if you have signed up to the IDPSeminars mail-list you MUST sign up separately for the IDPosters one-off event. Please use the link below - registration will close the day before the event (on Wed. Sept. 21st) so PLEASE SIGN UP SOON!
 
-### [Sign up to attend only](https://forms.gle/EbuyTbKzyggTvJvSA)
+### [Registration link](https://forms.gle/EbuyTbKzyggTvJvSA) 
 
-## What is IDPSeminars?
 
 IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
