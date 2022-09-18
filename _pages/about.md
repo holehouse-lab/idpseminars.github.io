@@ -16,22 +16,23 @@ IDPosters22: Virtual poster session
 # IDPosters22
 In conjunction with IDPSIG, we are excited to host our second (annual) virtual poster session with a keynote talk from the incredible [Tanja Mittag](https://www.stjude.org/research/labs/mittag-lab.html).
 
-For this event we want to invite YOU to come presenter your work in a virtual poster!
+For this event we want to invite YOU to come see the fantastic work being done by IDP scientists around the world! We have over 50 posters registered to present, as well as lightning talks to kick the poster session off and poster prizes generously sponsored by [Dewpoint Therapeutics](https://dewpointx.com/)!
 
 <img src="{{site.baseurl}}/images/IDPosters22_final.jpg" width="60%">
 
-Even if you have signed up to the IDPSeminars mail-list you MUST sign up separately for the IDPosters one-off event. Please use the link below - registration will close the day before the event (on Wed. Sept. 21st) so PLEASE SIGN UP SOON!
+Even if you have signed up to the IDPSeminars mail-list **you MUST sign up separately for the IDPosters one-off event**. Please use the link below - registration will close the day before the event (on Wed. Sept. 21st) so PLEASE SIGN UP SOON!
 
 ### [Registration link](https://forms.gle/EbuyTbKzyggTvJvSA) 
 
 
-IDPSeminars is a bi-weekly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
+# IDPSeminars
+IDPSeminars is a monthly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
 <img src="{{site.baseurl}}/images/s12_flyer.jpeg" width="100%">
 
 
 ## Who and how?
-IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every two weeks two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found on the Upcoming Talks (top of page).
+IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found in the flyer above.
 
 ## When are the talks?
 Seminars will be held on Thursdays at various times (depending on your timezone - winter schedule below) [last updated Feb 2nd 2022].
