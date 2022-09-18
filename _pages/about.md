@@ -18,7 +18,7 @@ In conjunction with IDPSIG, we are excited to host our second (annual) virtual p
 
 For this event we want to invite YOU to come see the fantastic work being done by IDP scientists around the world! We have over 50 posters registered to present, as well as lightning talks to kick the poster session off and poster prizes generously sponsored by [Dewpoint Therapeutics](https://dewpointx.com/)!
 
-<img src="{{site.baseurl}}/images/IDPosters22_final.jpg" width="60%">
+<img src="{{site.baseurl}}/images/IDPosters22_final.jpg" width="90%">
 
 Even if you have signed up to the IDPSeminars mail-list **you MUST sign up separately for the IDPosters one-off event**. Please use the link below - registration will close the day before the event (on Wed. Sept. 21st) so PLEASE SIGN UP SOON!
 
