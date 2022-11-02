@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span>Mikhail Savitski and Nick Fawzi
+## <span style="color:red">Next Event: </span>David de Sancho and Frans Mulder
 
-<img src="{{site.baseurl}}/images/speakers/2022/seminar_12_3.jpeg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2022/seminar_12_4.jpeg" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
