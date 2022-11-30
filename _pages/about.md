@@ -10,7 +10,7 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span>David de Sancho and Frans Mulder
+## <span style="color:red">Next Event: </span> Janet Kumita and Christine Keating
 
 <img src="{{site.baseurl}}/images/speakers/2022/seminar_12_4.jpeg" width="100%">
 
