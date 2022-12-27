@@ -12,7 +12,7 @@ redirect_from:
 	
 ## <span style="color:red">Next Event: </span> Iva Pritišanac and Felix Jonas
 
-<img src="{{site.baseurl}}/images/speakers/2023/anac_and_jonas.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2023/pritisanac_and_jonas.png" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
