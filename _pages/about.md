@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Janet Kumita and Christine Keating
+## <span style="color:red">Next Event: </span> Iva Pritišanac and Felix Jonas
 
-<img src="{{site.baseurl}}/images/speakers/2022/seminar_12_4.jpeg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2023/anac_and_jonas.png" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
