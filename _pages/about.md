@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Iva Pritišanac and Felix Jonas
+## <span style="color:red">Next Event: </span> Hyun Kate Lee and Omer Dushek
 
-<img src="{{site.baseurl}}/images/speakers/2023/pritisanac_and_jonas.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2023/lee_dushek.jpeg" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -20,8 +20,7 @@ redirect_from:
 # IDPSeminars
 IDPSeminars is a monthly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/s13_flyer.jpeg" width="100%">
-
+<img src="{{site.baseurl}}/images/s13B_flyer.jpeg" width="100%">
 
 
 ## Who and how?
