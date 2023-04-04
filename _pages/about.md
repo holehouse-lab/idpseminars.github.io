@@ -17,11 +17,11 @@ redirect_from:
 ## NOTE: SPECIAL TIME
 As an experiment, for our April 6th event we will hold the seminar three hours earlier than our usual time. We are doing this to see if it improves engagement and attendance from Asia.
 
-**Los Angeles**: 07:00 AM - **Chicago**: 09:00 PM  - **New York**: 10:00 PM
+**Los Angeles**: 07:00 AM - **Chicago**: 09:00 AM  - **New York**: 10:00 AM
 
 **London**: 3:00 PM - **Paris**: 4:00 PM - **Moscow**: 5:00 PM
 
-**Delhi**: 07:30 PM - **Beijing**: 10:00 PM  - **Sydney**: 12:00 AM
+**Delhi**: 07:30 PM - **Beijing**: 10:00 PM  - **Sydney**: 00:00 AM
 
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
