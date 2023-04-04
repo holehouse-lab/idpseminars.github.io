@@ -10,9 +10,19 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Hyun Kate Lee and Omer Dushek
+## <span style="color:red">Next Event: </span> Shivprasad Patil and Ali Miserez (April 6th) [NOTE SPECIAL TIME]
 
-<img src="{{site.baseurl}}/images/speakers/2023/lee_dushek.jpeg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2023/patil_miserez.jpg" width="100%">
+
+## NOTE: SPECIAL TIME
+As an experiment, for our April 6th event we will hold the seminar three hours earlier than our usual time. We are doing this to see if it improves engagement and attendance from Asia.
+
+**Los Angeles**: 07:00 AM - **Chicago**: 09:00 PM  - **New York**: 10:00 PM
+
+**London**: 3:00 PM - **Paris**: 4:00 PM - **Moscow**: 5:00 PM
+
+**Delhi**: 07:30 PM - **Beijing**: 10:00 PM  - **Sydney**: 12:00 AM
+
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -27,13 +37,13 @@ IDPSeminars is a monthly virtual seminar series that is centered around intrinsi
 IDPSeminars are virtual seminar series hosted by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found in the flyer above.
 
 ## When are the talks?
-Seminars will be held on Thursdays at various times (depending on your timezone - summer) [last updated Oct 17th 2022].
+Seminars will be held on Thursdays at various times (depending on your timezone - summer) [last updated April 1st 2023].
 
 **Los Angeles**: 10:00 AM - **Chicago**: 12:00 PM  - **New York**: 1:00 PM
 
 **London**: 6:00 PM - **Paris**: 7:00 PM - **Moscow**: 8:00 PM
 
-**Delhi**: 10:30 PM - **Beijing**: 1:00 AM  - **Sydney**: 4:00 AM
+**Delhi**: 10:30 PM - **Beijing**: 1:00 AM  - **Sydney**: 3:00 AM
 
 ## Who is this for?
 Our goal is to attract a broad set of speakers to appeal to a necessarily broad audience. A short summary of each speaker's work is provided alongside their talk title. If you are interested in speaking or would like to nominate someone to speak, please contact us at [disordered.protein.seminars@gmail.com](mailto:disordered.protein.seminars@gmail.com)!
