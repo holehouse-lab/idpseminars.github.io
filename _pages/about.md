@@ -10,19 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Shivprasad Patil and Ali Miserez (April 6th) [NOTE SPECIAL TIME]
+## <span style="color:red">Next Event: </span> Loren Hough and Salva Ventura (May 6th)
 
-<img src="{{site.baseurl}}/images/speakers/2023/patil_miserez.jpg" width="100%">
-
-## NOTE: SPECIAL TIME
-As an experiment, for our April 6th event we will hold the seminar three hours earlier than our usual time. We are doing this to see if it improves engagement and attendance from Asia.
-
-**Los Angeles**: 07:00 AM - **Chicago**: 09:00 AM  - **New York**: 10:00 AM
-
-**London**: 3:00 PM - **Paris**: 4:00 PM - **Moscow**: 5:00 PM
-
-**Delhi**: 07:30 PM - **Beijing**: 10:00 PM  - **Sydney**: 00:00 AM
-
+<img src="{{site.baseurl}}/images/speakers/2023/hough_ventura.jpg" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
