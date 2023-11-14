@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Alex Büll and Davide Mercadante (Oct. 19th)
+## <span style="color:red">Next Event: </span> Rachel Klevit and Alan Moses (Nov. 16th)
 
-<img src="{{site.baseurl}}/images/speakers/2023/bul_mercadante.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2023/klevit_moses.jpeg" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
