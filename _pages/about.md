@@ -12,7 +12,7 @@ redirect_from:
 	
 ## <span style="color:red">Next Event: </span> David Sanders and Jeanne Stachowiak (Feb. 1st 2024)
 
-<img src="{{site.baseurl}}/images/speakers/2023/lampel_duff.jpg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2024/david_jeanne.jpg" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
