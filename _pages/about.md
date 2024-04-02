@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Ashok Deniz and Ji-Young Youn (Mar. 7th 2024)
+## <span style="color:red">Next Event: </span> Thibault Viennet and Dragomir Milovanovic (Apr. 4th 2024)
 
-<img src="{{site.baseurl}}/images/speakers/2024/jiyoung_ashok.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2024/milovanovic_viennet.png" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
