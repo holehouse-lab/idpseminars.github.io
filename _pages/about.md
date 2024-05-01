@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Thibault Viennet and Dragomir Milovanovic (Apr. 4th 2024)
+## <span style="color:red">Next Event: </span> Karina Pombo-Garcia and Elizabeth Komives (May. 2nd 2024)
 
-<img src="{{site.baseurl}}/images/speakers/2024/milovanovic_viennet.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2024/pombo-garcia_komives.jpeg" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -20,7 +20,7 @@ redirect_from:
 # IDPSeminars
 IDPSeminars is a monthly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/spring2024_flyer.jpg" width="100%">
+<img src="{{site.baseurl}}/images/flyer_with_no_website_may_june.png" width="100%">
 
 
 ## Who and how?
