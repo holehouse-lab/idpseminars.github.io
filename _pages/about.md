@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Karina Pombo-Garcia and Elizabeth Komives (May. 2nd 2024)
+## <span style="color:red">Next Event: </span> Lukasz Joachimiak and Shovamayee Maharana (June 6th 2024)
 
-<img src="{{site.baseurl}}/images/speakers/2024/pombo-garcia_komives.jpeg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2024/joachimiak_maharana.png" width="100%">
 
 ### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
