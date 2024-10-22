@@ -47,7 +47,7 @@ IDPSeminars is a monthly virtual seminar series that is centered around intrinsi
 
 
 ## Who and how?
-IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington University School of Medicine)](https://www.jackiepelhamphd.com/team-members) and [Lucia Chemes (UNSAM)](https://investigadores.unsam.edu.ar/eng/investigador/364/Chemes-Lucia-Beatriz-). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found in the flyer above.
+IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington University School of Medicine)](https://www.jackiepelhamphd.com) and [Lucia Chemes (UNSAM)](https://investigadores.unsam.edu.ar/eng/investigador/364/Chemes-Lucia-Beatriz-). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found in the flyer above.
 
 IDPSeminars was founded in May 2020 by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu), initially as a response to the pandemic. In the years that followed, the IDP community has continued to attend the seminars with great enthusiasm. As such, the seminars continued, shifting from bi-weekly to monthly. In Oct 2024, Magnus and Alex passed the reins of IDPSeminars over to Jackie and Lucia, although they are still involved in technical and advisory capacities behind the scenes. 
 
