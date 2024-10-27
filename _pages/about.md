@@ -14,7 +14,8 @@ redirect_from:
 
 <img src="{{site.baseurl}}/images/speakers/2024/denes_ben.png" width="100%">
 
-### [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
+# <p style="text-align:center;">[Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)</p>
+
 
 ## ANNOUNCEMENT: IDPSeminars has new hosts!
 **A message from the IDPSeminars hosts** | *Oct 21st 2024*
