@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Benjamin Ryskeldi-Falcon and Denes Hnisz (Nov 7th 2024)
+## <span style="color:red">Next Event: </span> Emma Morrison and Sarah Rauscher (Dec 5th 2024)
 
-<img src="{{site.baseurl}}/images/speakers/2024/denes_ben.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2024/emma_sarah.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
