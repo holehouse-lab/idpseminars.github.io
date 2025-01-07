@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Emma Morrison and Sarah Rauscher (Dec 5th 2024)
+## <span style="color:red">Next Event: </span> Adam Klosin and Randal Halfmann (Jan 9th 2025)
 
-<img src="{{site.baseurl}}/images/speakers/2024/emma_sarah.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2025/adam_randal.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -44,7 +44,7 @@ Lucia, Jackie, Magnus, and Alex.
 # IDPSeminars
 IDPSeminars is a monthly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/flyer_with_no_website_season_16.png" width="100%">
+<img src="{{site.baseurl}}/images/season_17_flyer.png" width="100%">
 
 
 ## Who and how?
