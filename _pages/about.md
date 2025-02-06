@@ -10,9 +10,10 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Ora Shueler-Furman and Katja Luck (Feb 6th 2025)
+## <span style="color:red">Next Event: </span> Ora Shueler-Furman and Lia Ball (Feb 6th 2025) 
+#### NB - due to unforeseen events, Dr. Luck is unable to speak, but we are delighted to share that Dr. Lia Ball will speak instead!
 
-<img src="{{site.baseurl}}/images/speakers/2025/luck_Schueler-Furman.jpg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2025/Schueler-Furman_ball.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
