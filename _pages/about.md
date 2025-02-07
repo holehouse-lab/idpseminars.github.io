@@ -10,10 +10,27 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next Event: </span> Ora Shueler-Furman and Lia Ball (Feb 6th 2025) 
-#### NB - due to unforeseen events, Dr. Luck is unable to speak, but we are delighted to share that Dr. Lia Ball will speak instead!
+## <span style="color:red">BPS Week 2025 -  IDP Trainee Talks!!</span>
+We are excited to announce the upcoming Biophysics Week Trainee Symposium, co-sponsored by the BPS IDP Subgroup and IDPSeminars! This event is an excellent opportunity to showcase innovative research from emerging scientists, featuring presentations from both graduate students and postdocs.
 
-<img src="{{site.baseurl}}/images/speakers/2025/Schueler-Furman_ball.png" width="100%">
+### Event Details:
+
+* **Date & Time**: Thursday, March 27, at 12:00 PM Central Time (aligning with our regular IDPSeminars slot)
+* **Format**: Zoom webinar with four 20-minute speaking slots (plus 5 minutes for questions) – two presentations by graduate students and two by postdocs
+* **Abstract Submission**:
+	* Deadline: 10:00 PM CT, February 24
+	* Guidelines: Maximum 300 words (including title); BPS 2025 meeting abstracts are acceptable for the first and presenting author
+	* Speaker Selections: Announced on March 6
+	* Submission: [Abstracts can be submitted at the link here](https://docs.google.com/forms/d/e/1FAIpQLScksVtGaMcsISUz9SNA1bXL4nnC4uDIkuZqHsb8iWKmwQGjnQ/viewform)
+* [Sign up to attend talks](https://forms.gle/3yCHeYvuuqLhDgef6) via our usual IDPSeminars sign up (if you already get our IDPSeminar emails, you're already on the list!)
+
+	
+<img src="{{site.baseurl}}/images/speakers/2025/BPSWeekIDP.jpg" width="100%">
+	
+	
+## <span style="color:red">Next IDPSeminar: </span> Tzachi Hagai and Sara Cuylen-Haering (Mar 6th 2025) 
+
+<img src="{{site.baseurl}}/images/speakers/2025/hagai_cuylen_haring.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
