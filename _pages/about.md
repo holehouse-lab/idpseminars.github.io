@@ -15,22 +15,10 @@ We are excited to announce the upcoming Biophysics Week Trainee Symposium, co-sp
 
 ### Event Details:
 
-* **Date & Time**: Thursday, March 27, at 12:00 PM Central Time (aligning with our regular IDPSeminars slot)
-* **Format**: Zoom webinar with four 20-minute speaking slots (plus 5 minutes for questions) – two presentations by graduate students and two by postdocs
-* **Abstract Submission**:
-	* Deadline: 10:00 PM CT, February 24
-	* Guidelines: Maximum 300 words (including title); BPS 2025 meeting abstracts are acceptable for the first and presenting author
-	* Speaker Selections: Announced on March 6
-	* Submission: [Abstracts can be submitted at the link here](https://docs.google.com/forms/d/e/1FAIpQLScksVtGaMcsISUz9SNA1bXL4nnC4uDIkuZqHsb8iWKmwQGjnQ/viewform)
-* [Sign up to attend talks](https://forms.gle/3yCHeYvuuqLhDgef6) via our usual IDPSeminars sign up (if you already get our IDPSeminar emails, you're already on the list!)
+	
+## <span style="color:red">Next IDPSeminar: </span> Trainee Symposium (Mar 27th 2025) 
 
-	
-<img src="{{site.baseurl}}/images/speakers/2025/BPSWeekIDP.jpg" width="100%">
-	
-	
-## <span style="color:red">Next IDPSeminar: </span> Tzachi Hagai and Sara Cuylen-Haering (Mar 6th 2025) 
-
-<img src="{{site.baseurl}}/images/speakers/2025/hagai_cuylen_haring.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2025/trainee_symposium_2025.jpg" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -62,7 +50,7 @@ Lucia, Jackie, Magnus, and Alex.
 # IDPSeminars
 IDPSeminars is a monthly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/season_17_flyer.png" width="100%">
+<img src="{{site.baseurl}}/images/season_18_flyer.png" width="100%">
 
 
 ## Who and how?
