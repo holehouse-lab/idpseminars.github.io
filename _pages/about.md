@@ -10,15 +10,10 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">BPS Week 2025 -  IDP Trainee Talks!!</span>
-We are excited to announce the upcoming Biophysics Week Trainee Symposium, co-sponsored by the BPS IDP Subgroup and IDPSeminars! This event is an excellent opportunity to showcase innovative research from emerging scientists, featuring presentations from both graduate students and postdocs.
-
-### Event Details:
-
 	
-## <span style="color:red">Next IDPSeminar: </span> Trainee Symposium (Mar 27th 2025) 
+## <span style="color:red">Next IDPSeminar: </span> Landry & Nillson (April 3rd 2025) 
 
-<img src="{{site.baseurl}}/images/speakers/2025/trainee_symposium_2025.jpg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2025/landry_nilsson.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
