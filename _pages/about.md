@@ -10,10 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-	
-## <span style="color:red">Next IDPSeminar: </span> Landry & Nillson (April 3rd 2025) 
+## <span style="color:red">Next IDPSeminar: </span> Shammas & Longhi (June 5th 2025) 
 
-<img src="{{site.baseurl}}/images/speakers/2025/landry_nilsson.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2025/shammas_longhi.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -47,20 +46,19 @@ IDPSeminars is a monthly virtual seminar series that is centered around intrinsi
 
 <img src="{{site.baseurl}}/images/season_18_flyer.png" width="100%">
 
-
 ## Who and how?
 IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington University School of Medicine)](https://www.jackiepelhamphd.com) and [Lucia Chemes (UNSAM)](https://investigadores.unsam.edu.ar/eng/investigador/364/Chemes-Lucia-Beatriz-). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found in the flyer above.
 
 IDPSeminars was founded in May 2020 by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu), initially as a response to the pandemic. In the years that followed, the IDP community has continued to attend the seminars with great enthusiasm. As such, the seminars continued, shifting from bi-weekly to monthly. In Oct 2024, Magnus and Alex passed the reins of IDPSeminars over to Jackie and Lucia, although they are still involved in technical and advisory capacities behind the scenes. 
 
 ## When are the talks?
-Seminars will be held on Thursdays at various times (depending on your timezone - summer) [last updated November 2024].
+Seminars will be held on Thursdays at various times (depending on your timezone - summer) [last updated June 2025; sorry Davide!].
 
 **Los Angeles**: 10:00 AM - **Chicago**: 12:00 PM  - **New York**: 1:00 PM
 
-**London**: 6:00 PM - **Paris**: 7:00 PM - **Moscow**: 9:00 PM
+**London**: 6:00 PM - **Paris**: 7:00 PM - **Moscow**: 8:00 PM
 
-**Delhi**: 11:30 PM - **Beijing**: 2:00 AM (Friday)  - **Sydney**: 5:00 AM (Friday)
+**Delhi**: 10:30 PM - **Beijing**: 1:00 AM (Friday)  - **Sydney**: 3:00 AM (Friday)
 
 ## Who is this for?
 Our goal is to attract a broad set of speakers to appeal to a necessarily broad audience. A short summary of each speaker's work is provided alongside their talk title. If you are interested in speaking or would like to nominate someone to speak, please contact us at [disordered.protein.seminars@gmail.com](mailto:disordered.protein.seminars@gmail.com)!
