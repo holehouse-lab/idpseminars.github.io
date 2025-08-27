@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next IDPSeminar: </span> Shammas & Longhi (June 5th 2025) 
+## <span style="color:red">Next IDPSeminar: </span> Pappu & Jackrel (Sept. 4th 2025) 
 
-<img src="{{site.baseurl}}/images/speakers/2025/shammas_longhi.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2025/pappu_jackrel.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -32,7 +32,7 @@ Jackie is an independent fellow (Cori Fellow) in the Dept. of Biochemistry & Mol
 
 Lucia is a group leader at UNSAM University, Buenos Aires, Argentina. The Chemes lab studies IDP evolution and the role of protein disorder in cell signaling and pathogen hijack!
 
-Alex and Magnus will continue to be involved in advisory roles, alternative hosting responsibilities, and technical support. However, the scientific and practical aspects of IDPSeminars is now firmly in the hands of Jackie and Lucia!
+Alex and Magnus will continue to be involved in advisory roles, alternative hosting responsibilities, and technical support. However, the scientific and practical aspects of IDP Seminars are now firmly in the hands of Jackie and Lucia!
 
 With that, we (Jackie and Lucia) are excited to announce our upcoming season of talks, which restarts on November 7th (three weeks!). 
 
@@ -42,9 +42,9 @@ Lucia, Jackie, Magnus, and Alex.
 
 
 # IDPSeminars
-IDPSeminars is a monthly virtual seminar series that is centered around intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from all walks of research. We hope to provide a regular forum in which an interdisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
+IDPSeminars is a monthly virtual seminar series centered on intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from diverse research backgrounds. We aim to establish a regular forum where a multidisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/season_18_flyer.png" width="100%">
+<img src="{{site.baseurl}}/images/season_19_flyer.png" width="100%">
 
 ## Who and how?
 IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington University School of Medicine)](https://www.jackiepelhamphd.com) and [Lucia Chemes (UNSAM)](https://investigadores.unsam.edu.ar/eng/investigador/364/Chemes-Lucia-Beatriz-). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found in the flyer above.
@@ -52,7 +52,7 @@ IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington Uni
 IDPSeminars was founded in May 2020 by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu), initially as a response to the pandemic. In the years that followed, the IDP community has continued to attend the seminars with great enthusiasm. As such, the seminars continued, shifting from bi-weekly to monthly. In Oct 2024, Magnus and Alex passed the reins of IDPSeminars over to Jackie and Lucia, although they are still involved in technical and advisory capacities behind the scenes. 
 
 ## When are the talks?
-Seminars will be held on Thursdays at various times (depending on your timezone - summer) [last updated June 2025; sorry Davide!].
+Seminars will be held on Thursdays at various times (depending on your timezone - summer) [last updated August 2025].
 
 **Los Angeles**: 10:00 AM - **Chicago**: 12:00 PM  - **New York**: 1:00 PM
 
