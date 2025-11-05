@@ -10,9 +10,9 @@ redirect_from:
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
 	
-## <span style="color:red">Next IDPSeminar: </span> Daughdrill & Yu  (Oct. 2nd 2025) 
+## <span style="color:red">Next IDPSeminar: </span> Sabari & Barkai  (Nov. 6th 2025) 
 
-<img src="{{site.baseurl}}/images/speakers/2025/yu_daughdrill.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2025/sabari_barkai.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
