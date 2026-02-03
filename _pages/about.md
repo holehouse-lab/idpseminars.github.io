@@ -9,10 +9,9 @@ redirect_from:
 
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
-	
-## <span style="color:red">Next IDPSeminar: </span> Soranno & Zhu (Jan. 8th 2025) 
+## <span style="color:red">Next IDPSeminar: </span> Strader & Meyer (Feb. 5th 2025) 
 
-<img src="{{site.baseurl}}/images/speakers/2026/soranno_zhu.jpg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2026/strader_meyer.jpg" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -42,14 +41,14 @@ Lucia, Jackie, Magnus, and Alex.
 
 
 # IDPSeminars
-IDPSeminars is a monthly virtual seminar series centered on intrinsically disordered proteins (IDPs). Given the interdisciplinary nature of the field, our goal is to attract speakers from diverse research backgrounds. We aim to establish a regular forum where a multidisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
+IDPSeminars is a monthly virtual seminar series centered on intrinsically disordered proteins (IDPs). Given the field's interdisciplinary nature, our goal is to attract speakers from diverse research backgrounds. We aim to establish a regular forum where a multidisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
 <img src="{{site.baseurl}}/images/season_20_flyer.png" width="100%">
 
 ## Who and how?
-IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington University School of Medicine)](https://www.jackiepelhamphd.com) and [Lucia Chemes (UNSAM)](https://investigadores.unsam.edu.ar/eng/investigador/364/Chemes-Lucia-Beatriz-). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The set of upcoming speakers can be found in the flyer above.
+IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington University School of Medicine)](https://www.jackiepelhamphd.com) and [Lucia Chemes (UNSAM)](https://investigadores.unsam.edu.ar/eng/investigador/364/Chemes-Lucia-Beatriz-). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The list of upcoming speakers is in the flyer above.
 
-IDPSeminars was founded in May 2020 by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu), initially as a response to the pandemic. In the years that followed, the IDP community has continued to attend the seminars with great enthusiasm. As such, the seminars continued, shifting from bi-weekly to monthly. In Oct 2024, Magnus and Alex passed the reins of IDPSeminars over to Jackie and Lucia, although they are still involved in technical and advisory capacities behind the scenes. 
+IDPSeminars was founded in May 2020 by [Magnus Kjaergaard (Aarhus University)](http://www.biophysics.dk/) and [Alex Holehouse (Washington University School of Medicine)](http://holehouse.wustl.edu), initially as a response to the pandemic. In the years that followed, the IDP community has continued to attend the seminars with great enthusiasm. As such, the seminars continued, shifting from bi-weekly to monthly. In Oct 2024, Magnus and Alex passed the reins of IDPSeminars to Jackie and Lucia, though they remain involved in technical and advisory roles behind the scenes. 
 
 ## When are the talks?
 Seminars will be held on Thursdays at various times (depending on your timezone - summer) [last updated Nov 5th 2025].
@@ -61,4 +60,4 @@ Seminars will be held on Thursdays at various times (depending on your timezone 
 **Delhi**: 11:30 PM - **Beijing**: 2:00 AM (Friday)  - **Sydney**: 5:00 AM (Friday)
 
 ## Who is this for?
-Our goal is to attract a broad set of speakers to appeal to a necessarily broad audience. A short summary of each speaker's work is provided alongside their talk title. If you are interested in speaking or would like to nominate someone to speak, please contact us at [disordered.protein.seminars@gmail.com](mailto:disordered.protein.seminars@gmail.com)!
+Our goal is to attract a broad set of speakers to appeal to a necessarily broad audience. A short summary of each speaker's work is provided alongside their talk title. If you are interested in speaking or would like to nominate someone, please contact us at [disordered.protein.seminars@gmail.com](mailto:disordered.protein.seminars@gmail.com)!
