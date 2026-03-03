@@ -9,9 +9,9 @@ redirect_from:
 
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
-## <span style="color:red">Next IDPSeminar: </span> Strader & Meyer (Feb. 5th 2025) 
+## <span style="color:red">Next IDPSeminar: </span> Mittag & Salvatella (Mar. 5th 2025) 
 
-<img src="{{site.baseurl}}/images/speakers/2026/strader_meyer.jpg" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2026/mittag_salvatella.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
