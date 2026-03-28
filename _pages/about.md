@@ -9,9 +9,9 @@ redirect_from:
 
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
-## <span style="color:red">Next IDPSeminar: </span> Mittag & Salvatella (Mar. 5th 2025) 
+## <span style="color:red">Next IDPSeminar: </span> Shinn & Sanabria (April. 2nd 2026) 
 
-<img src="{{site.baseurl}}/images/speakers/2026/mittag_salvatella.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2026/shinn_sanabria.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
@@ -43,7 +43,7 @@ Lucia, Jackie, Magnus, and Alex.
 # IDPSeminars
 IDPSeminars is a monthly virtual seminar series centered on intrinsically disordered proteins (IDPs). Given the field's interdisciplinary nature, our goal is to attract speakers from diverse research backgrounds. We aim to establish a regular forum where a multidisciplinary group of scientists from around the world can present their work to a broad audience while minimizing their carbon footprint.
 
-<img src="{{site.baseurl}}/images/season_20_flyer.png" width="100%">
+<img src="{{site.baseurl}}/images/season_21_flyer.png" width="100%">
 
 ## Who and how?
 IDPSeminars is a virtual seminar series hosted by [Jackie Pelham (Washington University School of Medicine)](https://www.jackiepelhamphd.com) and [Lucia Chemes (UNSAM)](https://investigadores.unsam.edu.ar/eng/investigador/364/Chemes-Lucia-Beatriz-). Every month, two speakers will present for around 30 minutes with 10-15 minutes of questions. The list of upcoming speakers is in the flyer above.
