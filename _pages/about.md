@@ -9,9 +9,9 @@ redirect_from:
 
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
-## <span style="color:red">Next IDPSeminar: </span> Shinn & Sanabria (April. 2nd 2026) 
+## <span style="color:red">Next IDPSeminar: </span> Parker & Hondele (May. 7th 2026) 
 
-<img src="{{site.baseurl}}/images/speakers/2026/shinn_sanabria.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2026/parker_hondele.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
