@@ -9,9 +9,9 @@ redirect_from:
 
 <img src="{{site.baseurl}}/images/logo.jpg" width="60%">
 	
-## <span style="color:red">Next IDPSeminar: </span> Yang & Dai (Sept. 3rd 2026) 
+## <span style="color:red">Next IDPSeminar: </span> Tesei & Best (Oct. 1st 2026) 
 
-<img src="{{site.baseurl}}/images/speakers/2026/yang_dai.png" width="100%">
+<img src="{{site.baseurl}}/images/speakers/2026/tesei_best.png" width="100%">
 
 # [Sign up here!](https://forms.gle/3yCHeYvuuqLhDgef6)
 
